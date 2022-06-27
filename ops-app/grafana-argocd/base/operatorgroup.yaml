@@ -4,4 +4,4 @@ metadata:
   name: grafana-operatorgroup
 spec:
   targetNamespaces:
-  - argocd
+  - openshift-gitops
