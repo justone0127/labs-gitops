@@ -1,7 +1,7 @@
 apiVersion: integreatly.org/v1alpha1
 kind: GrafanaDashboard
 metadata:
-  namespace: argocd
+  namespace: openshift-gitops
   name: agorcd-dashboard
   labels:
     app: grafana
